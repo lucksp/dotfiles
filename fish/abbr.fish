@@ -12,8 +12,12 @@ if status --is-interactive
   abbr gcb 'git checkout -b'
   abbr gcm 'git checkout master'
   abbr gm 'git merge'
-  abbr gp 'git pull'
+  abbr gpl 'git pull'
+  abbr gpu 'git push'
   abbr gs 'git stash'
+  abbr gsp 'git stash pop'
   abbr gaa 'git add -A'
   abbr gcomm 'git commit -m'
+
+  abbr y yarn
 end
