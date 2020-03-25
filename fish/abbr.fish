@@ -1,3 +1,4 @@
+// add these abbreviations to the config
 if status --is-interactive
   set -g fish_user_abbreviations
 
@@ -16,4 +17,6 @@ if status --is-interactive
   abbr gs 'git stash'
   abbr gaa 'git add -A'
   abbr gcomm 'git commit -m'
+
+  abbr cl 'console.log()'
 end
