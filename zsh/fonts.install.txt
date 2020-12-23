@@ -1,0 +1,11 @@
+https://github.com/powerline/fonts
+
+1.
+git clone https://github.com/powerline/fonts.git
+cd fonts
+./install.sh
+
+2.
+Open Terminal
+Change font to 'Roboto Mono Light for Powerline'
+12px
